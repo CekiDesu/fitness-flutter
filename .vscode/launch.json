@@ -5,19 +5,22 @@
       "name": "fitness (debug mode)",
       "request": "launch",
       "type": "dart",
-      "flutterMode": "debug"
+      "flutterMode": "debug",
+      "deviceId": "emulator-5554"
     },
     {
       "name": "fitness (profile mode)",
       "request": "launch",
       "type": "dart",
-      "flutterMode": "profile"
+      "flutterMode": "profile",
+      "deviceId": "emulator-5554"
     },
     {
       "name": "fitness (release mode)",
       "request": "launch",
       "type": "dart",
-      "flutterMode": "release"
+      "flutterMode": "release",
+      "deviceId": "emulator-5554"
     }
   ]
 }
